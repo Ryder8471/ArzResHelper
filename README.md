@@ -17,9 +17,9 @@
 # 📦 Установка
 
 1. Скачай `#ArzResHelper.lua` и помести в папку `moonloader`
-2. Скачай `ResHelper.zip` и распакуй в папку `moonloader` (создаст папку `ResHelper` с файлами)
-3. Скачай `resource.zip` и распакуй в папку `moonloader` (добавит звуки в `resource/farm/`)
-4. Папка `config` создастся автоматически при первом запуске скрипта
+2. Скачай `moonloader.zip` и распакуй в корневую папку Аризоны (создаст папку `ResHelper` с файлами и добавит звуки в `resource/farm/`)
+3. Или: Скачай `moonloader.zip` открой папку `moonloader` и перекинь содержимое этой папки в свой `moonloader`.
+
 
 
 # 🚀 Использование
