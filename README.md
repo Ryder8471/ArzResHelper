@@ -71,4 +71,4 @@
 
 # Версия 
 
-[![Version](https://img.shields.io/badge/version-1.1.2-green.svg)](https://github.com/Ryder8471/ArzResHelper)
+[![Version](https://img.shields.io/badge/version-1.1.3-green.svg)](https://github.com/Ryder8471/ArzResHelper)
