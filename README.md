@@ -80,4 +80,4 @@
 
 # Версия 
 
-[![Version](https://img.shields.io/badge/version-1.1.4-green.svg)](https://github.com/Ryder8471/ArzResHelper)
+[![Version](https://img.shields.io/badge/version-1.2-green.svg)](https://github.com/Ryder8471/ArzResHelper)
