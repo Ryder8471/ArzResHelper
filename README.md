@@ -27,9 +27,12 @@
 
 # 📦 Установка
 
+1. Скачай `#ArzResHelper.lua` и помести в папку `moonloader` все автоматически подгрузится при первом запуске игры со скриптом.
+
+# Если что то пошло не так:
+
 1. Скачай `#ArzResHelper.lua` и помести в папку `moonloader`
-2. Скачай `moonloader.zip` и распакуй в корневую папку Аризоны (создаст папку `ResHelper` с файлами и добавит звуки в `resource/farm/`)
-3. Или: Скачай `moonloader.zip` открой папку `moonloader` и перекинь содержимое этой папки в свой `moonloader`.
+2. Скачай `moonloader.zip` открой папку `moonloader` и перекинь содержимое этой папки в свой `moonloader`.
 
 
 
@@ -82,4 +85,4 @@
 
 # Версия 
 
-[![Version](https://img.shields.io/badge/version-1.2.1.1-green.svg)](https://github.com/Ryder8471/ArzResHelper)
+[![Version](https://img.shields.io/badge/version-1.2.2-green.svg)](https://github.com/Ryder8471/ArzResHelper)
