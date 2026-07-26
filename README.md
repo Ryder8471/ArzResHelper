@@ -36,7 +36,7 @@
 # Если что то пошло не так:
 
 1. Скачай `#ArzResHelper.lua` и помести в папку `moonloader`
-2. Скачай `moonloader.zip` открой папку `moonloader` и перекинь содержимое этой папки в свой `moonloader`.
+2. Скачай `moonloader.zip` открой папку `moonloader` и перекинь содержимое этой папки в свой `moonloader`
 
 
 
