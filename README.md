@@ -34,6 +34,7 @@
 - 💬 **Уведомления разработчика** — получение важных новостей и анонсов прямо в игре с историей уведомлений
 - 💬 **Такси** — запись статистики и дохода с работы таксиста
 - 💬 **Инкассатор** — запись статистики и дохода с работы инкассатора
+- 🌐 **Работает на сервере Vice City** — отдельная статистика для сервера VC.
 
 
 
@@ -99,4 +100,4 @@
 
 # Версия 
 
-[![Version](https://img.shields.io/badge/version-1.4.0.1-green.svg)](https://github.com/Ryder8471/ArzResHelper)
+[![Version](https://img.shields.io/badge/version-1.4.1-green.svg)](https://github.com/Ryder8471/ArzResHelper)
